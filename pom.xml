@@ -8,6 +8,7 @@
     <modules>
         <module>Calculadora</module>
         <module>TareaCLase2</module>
+        <module>TareaCLase3</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -80,7 +80,7 @@ public class Application {
                     String calcular = "";
                     while (!calcular.equals("exit")) {
                         entradaManu = new BufferedReader(new InputStreamReader(System.in));
-                        System.out.println("escribiruna nota o escibe exit para salir");
+                        System.out.println("escribir una nota o escibe exit para salir");
                         calcular = entradaManu.readLine();
                         if (!calcular.equals("exit")) {
                             Double n = Double.parseDouble(calcular);
