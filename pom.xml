@@ -6,9 +6,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Calculadora</module>
         <module>TareaCLase2</module>
         <module>TareaCLase3</module>
+        <module>TareaClase4</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
