@@ -3,15 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.maestria.programacionI_2021_01</groupId>
-        <artifactId>ProgramasMaestria</artifactId>
+        <artifactId>TareaClase4</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>TareaClase4</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Calculadora</module>
-        <module>Calculadora2</module>
-        <module>MenuSwing</module>
-        <module>Login</module>
-    </modules>
+    <artifactId>Login</artifactId>
+    <packaging>jar</packaging>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 </project>
