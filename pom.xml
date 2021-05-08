@@ -9,6 +9,7 @@
         <module>TareaCLase2</module>
         <module>TareaCLase3</module>
         <module>TareaClase4</module>
+        <module>TareaClase5</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
