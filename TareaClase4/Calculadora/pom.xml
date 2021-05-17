@@ -22,7 +22,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.maestria.programacioni_2021_01.calculadora2.Application</mainClass>
+                            <mainClass>com.maestria.programacionI_2021_01.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
